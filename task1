@@ -1,0 +1,7 @@
+echo "# TASKS-from-SPARKS-Foundation" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MuskanBansal2001/TASKS-from-SPARKS-Foundation.git
+git push -u origin main
